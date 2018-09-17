@@ -1,0 +1,27 @@
+_repo: A-Prisoner-of-the-Khaleefa-Twelve-Years-Captivity-at-Omdurman_52226
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Neufeld, Charles
+    alias: Neufeld, Carl
+    birthdate: 1856
+    deathdate: 1918
+    gutenberg_agent_id: '26062'
+    url: http://www.gutenberg.org/2009/agents/26062
+description: ''
+gutenberg_issued: '2016-06-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52226'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DT'
+- !lcsh 'Prisoners -- Sudan -- Omdurman'
+- !lcsh 'Neufeld, Charles, 1856-1918'
+- !lcsh 'Sudan -- History -- 19th century'
+- GITenberg
+title: 'A Prisoner of the Khaleefa: Twelve Years Captivity at Omdurman'
+url: http://www.gutenberg.org/ebooks/52226
